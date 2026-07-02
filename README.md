@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bidyakar Bhattarai</h1>
+<h1 align="center">Hi 👋, I'm Bidyakar Bhatta</h1>
 
 <h3 align="center">
 Full Stack Developer • React & Next.js Enthusiast • UI/UX Focused
