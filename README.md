@@ -52,15 +52,15 @@ Passionate about building modern, responsive, and user-centric web applications 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/bidyakar-bhatta-288902259">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:bhattbidyakar@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Bidyakar">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
