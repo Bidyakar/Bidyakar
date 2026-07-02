@@ -71,9 +71,9 @@ Passionate about building modern, responsive, and user-centric web applications 
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bidyakar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bidyakar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -113,6 +113,6 @@ Passionate about building modern, responsive, and user-centric web applications 
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Bidyakar&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </p>
