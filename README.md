@@ -32,7 +32,7 @@ Passionate about building modern, responsive, and user-centric web applications 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,nodejs,express,dotnet" />
+<img src="https://skillicons.dev/icons?i=php,nodejs" />
 </p>
 
 ### Database
