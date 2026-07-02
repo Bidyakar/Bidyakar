@@ -79,7 +79,7 @@ Passionate about building modern, responsive, and user-centric web applications 
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bidyakar&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -89,7 +89,7 @@ Passionate about building modern, responsive, and user-centric web applications 
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=7&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Bidyakar&theme=onedark&row=1&column=7&no-frame=true"/>
 
 </p>
 
@@ -99,7 +99,7 @@ Passionate about building modern, responsive, and user-centric web applications 
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bidyakar&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
