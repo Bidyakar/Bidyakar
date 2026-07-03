@@ -47,7 +47,7 @@ Building modern, scalable and beautiful web applications with a focus on clean c
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://github.com/Bidyakar">
 <img src="https://skillicons.dev/icons?i=vercel" />
 </a>
 
