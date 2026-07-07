@@ -67,7 +67,7 @@
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,nodejs,express&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=php,nodejs&perline=6"/>
 </p>
 
 ### Database
