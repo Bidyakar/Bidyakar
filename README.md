@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-WEB--SLINGING%20THROUGH%20CODE-E62429?style=for-the-badge&labelColor=0D0D0D"/>
+  <img src="https://img.shields.io/badge/STATUS-WEB--DEVELOPING%20THROUGH%20CODE-E62429?style=for-the-badge&labelColor=0D0D0D"/>
   <img src="https://img.shields.io/badge/SPIDER--SENSE-ALWAYS%20ON-0476F2?style=for-the-badge&labelColor=0D0D0D"/>
 </p>
 
