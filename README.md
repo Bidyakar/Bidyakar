@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0D0D0D,50:E62429,100:0476F2&text=Bidyakar%20Bhatta&fontSize=58&fontColor=ffffff&fontAlignY=32&desc=Full%20Stack%20Web-Slinger%20%7C%20React%20%7C%20Next.js&descAlignY=52&descSize=18&stroke=0D0D0D&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0D0D0D,50:E62429,100:0476F2&text=Bidyakar%20Bhatta&fontSize=58&fontColor=ffffff&fontAlignY=32&desc=Full%20Stack%20Web-Developer%20%7C%20React%20%7C%20Next.js&descAlignY=52&descSize=18&stroke=0D0D0D&animation=fadeIn"/>
 </p>
 
 <!-- Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=900&color=E62429&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%95%B7%EF%B8%8F+I'm+Bidyakar+Bhatta;Full+Stack+Developer;React+%7C+Next.js+Developer;Swinging+Through+Code+Like+Spidey;With+Great+Code+Comes+Great+Responsibility" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=900&color=E62429&center=true&vCenter=true&width=850&lines=Hi I'm+Bidyakar+Bhatta;Full+Stack+Developer;React+%7C+Next.js+Developer;Swinging+Through+Code+Like+Spidey;With+Great+Code+Comes+Great+Responsibility" />
 </p>
 
 <p align="center">
