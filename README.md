@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D0D0D,50:E62429,100:0476F2&text=Bidyakar%20Bhatta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web-Slinger%20%7C%20React%20%7C%20Next.js&descAlignY=55&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0D0D0D,50:E62429,100:0476F2&text=Bidyakar%20Bhatta&fontSize=58&fontColor=ffffff&fontAlignY=32&desc=Full%20Stack%20Web-Slinger%20%7C%20React%20%7C%20Next.js&descAlignY=52&descSize=18&stroke=0D0D0D&animation=fadeIn"/>
 </p>
 
 <!-- Typing -->
@@ -10,6 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-WEB--SLINGING%20THROUGH%20CODE-E62429?style=for-the-badge&labelColor=0D0D0D"/>
+  <img src="https://img.shields.io/badge/SPIDER--SENSE-ALWAYS%20ON-0476F2?style=for-the-badge&labelColor=0D0D0D"/>
 </p>
 
 <h3 align="center">
@@ -81,7 +82,7 @@
 
 <p align="center">🕸️─────────────────────🕷️─────────────────────🕸️</p>
 
-# 🏆 GitHub Achievements
+# 🏆 Daily Bugle Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Bidyakar&theme=radical&row=2&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
@@ -89,7 +90,7 @@
 
 <p align="center">🕸️─────────────────────🕷️─────────────────────🕸️</p>
 
-# 📊 GitHub Statistics
+# 📊 Web-Shooter Stats
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bidyakar&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=E62429&icon_color=0476F2&text_color=ffffff"/>
@@ -110,7 +111,7 @@
 
 <p align="center">🕸️─────────────────────🕷️─────────────────────🕸️</p>
 
-# ⚡ Current Focus
+# ⚡ Spider-Sense Priorities
 
 ```text
 🕸️ Full Stack Development
@@ -140,5 +141,5 @@
 </p>
 
 <p align="center">
-  <img width="60%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0476F2,100:E62429&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0476F2,50:E62429,100:0D0D0D&section=footer&stroke=0D0D0D&reversal=true"/>
 </p>
